@@ -1,6 +1,5 @@
 import './globals.css'
-import { AuthProvider } from '../contexts/AuthContext'
-import { NotificationProvider } from '../contexts/NotificationContext'
+
 import Header from '../components/common/Header'
 import Footer from '../components/common/Footer'
 import { ToastContainer } from 'react-toastify'
